@@ -1,1 +1,19 @@
-
+{
+  "category": "news",
+  "country": "germany",
+  "language": "de",
+  "sources": [
+    {
+      "name": "Tagesschau",
+      "rss": "https://www.tagesschau.de/xml/rss2"
+    },
+    {
+      "name": "Der Spiegel",
+      "rss": "https://www.spiegel.de/schlagzeilen/tops/index.rss"
+    },
+    {
+      "name": "Die Zeit",
+      "rss": "https://newsfeed.zeit.de/index"
+    }
+  ]
+}
