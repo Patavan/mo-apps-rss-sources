@@ -1,6 +1,14 @@
 [
   {
-    "name": "Kicker",
-    "rss": "https://rss.kicker.de/news/aktuell"
+    "name": "kicker",
+    "url": "https://www.kicker.de/news/fussball/rss.xml",
+    "category": "Sport",
+    "country": "Deutschland"
+  },
+  {
+    "name": "Sportschau",
+    "url": "https://www.sportschau.de/index.xml",
+    "category": "Sport",
+    "country": "Deutschland"
   }
 ]
