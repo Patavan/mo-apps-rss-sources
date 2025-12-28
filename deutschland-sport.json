@@ -1,13 +1,6 @@
-{
-  "title": "Deutschland – Sport",
-  "feeds": [
-    {
-      "name": "Kicker",
-      "url": "https://www.kicker.de/rss"
-    },
-    {
-      "name": "Sportschau",
-      "url": "https://www.sportschau.de/index~rss2.xml"
-    }
-  ]
-}
+[
+  {
+    "name": "Kicker",
+    "rss": "https://rss.kicker.de/news/aktuell"
+  }
+]
