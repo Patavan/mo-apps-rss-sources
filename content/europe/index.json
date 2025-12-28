@@ -1,0 +1,11 @@
+{
+  "region": "europe",
+  "title": "Europa",
+  "countries": [
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "path": "germany/meta.json"
+    }
+  ]
+}
