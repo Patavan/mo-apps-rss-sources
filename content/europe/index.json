@@ -1,11 +1,11 @@
 {
-  "region": "europe",
+  "level": "continent",
   "title": "Europa",
   "countries": [
     {
       "id": "germany",
       "title": "Deutschland",
-      "path": "germany/meta.json"
+      "path": "germany/all.json"
     }
   ]
 }
