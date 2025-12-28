@@ -1,10 +1,14 @@
 [
   {
     "name": "Tagesschau",
-    "rss": "https://www.tagesschau.de/xml/rss2"
+    "url": "https://www.tagesschau.de/xml/rss2/",
+    "category": "Nachrichten",
+    "country": "Deutschland"
   },
   {
-    "name": "Spiegel",
-    "rss": "https://www.spiegel.de/schlagzeilen/tops/index.rss"
+    "name": "SPIEGEL ONLINE",
+    "url": "https://www.spiegel.de/schlagzeilen/index.rss",
+    "category": "Nachrichten",
+    "country": "Deutschland"
   }
 ]
