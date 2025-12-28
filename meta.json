@@ -1,0 +1,11 @@
+{
+  "root": "world",
+  "title": "Welt",
+  "regions": [
+    {
+      "id": "europe",
+      "title": "Europa",
+      "path": "content/europe/index.json"
+    }
+  ]
+}
