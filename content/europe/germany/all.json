@@ -1,15 +1,16 @@
 {
-  "category": "news",
-  "country": "germany",
-  "language": "de",
-  "sources": [
+  "name": "Deutschland – Allgemein",
+  "category": "all",
+  "feeds": [
     {
       "name": "Tagesschau",
-      "rss": "https://www.tagesschau.de/xml/rss2"
+      "urlString": "https://www.tagesschau.de/xml/rss2",
+      "isEnabled": true
     },
     {
       "name": "Der Spiegel",
-      "rss": "https://www.spiegel.de/schlagzeilen/tops/index.rss"
+      "urlString": "https://www.spiegel.de/schlagzeilen/tops/index.rss",
+      "isEnabled": true
     }
   ]
 }
