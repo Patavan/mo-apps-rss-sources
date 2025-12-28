@@ -1,11 +1,16 @@
 {
-  "root": "world",
-  "title": "Welt",
-  "regions": [
+  "version": "1.0",
+  "baseURL": "https://raw.githubusercontent.com/Patavan/mo-apps-rss-sources/main",
+  "sources": [
     {
-      "id": "europe",
-      "title": "Europa",
-      "path": "content/europe/index.json"
+      "id": "de_news",
+      "title": "Deutschland – Nachrichten",
+      "file": "deutschland-nachrichten.json"
+    },
+    {
+      "id": "de_sport",
+      "title": "Deutschland – Sport",
+      "file": "deutschland-sport.json"
     }
   ]
 }
