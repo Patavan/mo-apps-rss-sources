@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "feeds": [
+    {
+      "file": "deutschland-nachrichten.json",
+      "name": "Deutschland - Nachrichten",
+      "description": "Aktuelle Nachrichten aus Deutschland",
+      "category": "Nachrichten",
+      "country": "Deutschland"
+    },
+    {
+      "file": "deutschland-sport.json",
+      "name": "Deutschland - Sport",
+      "description": "Sportnachrichten aus Deutschland",
+      "category": "Sport",
+      "country": "Deutschland"
+    }
+  ]
+}
