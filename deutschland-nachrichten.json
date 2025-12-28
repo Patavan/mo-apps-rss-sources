@@ -1,1 +1,13 @@
-
+{
+  "title": "Deutschland – Nachrichten",
+  "feeds": [
+    {
+      "name": "Tagesschau",
+      "url": "https://www.tagesschau.de/xml/rss2"
+    },
+    {
+      "name": "Der Spiegel",
+      "url": "https://www.spiegel.de/schlagzeilen/tops/index.rss"
+    }
+  ]
+}
