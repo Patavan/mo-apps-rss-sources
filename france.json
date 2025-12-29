@@ -1,1 +1,38 @@
-
+[
+  {
+    "name": "Le Monde – Actualités",
+    "url": "https://www.lemonde.fr/rss/une.xml",
+    "category": "Nachrichten",
+    "country": "France"
+  },
+  {
+    "name": "Le Figaro – À la une",
+    "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+    "category": "Nachrichten",
+    "country": "France"
+  },
+  {
+    "name": "France 24 – France",
+    "url": "https://www.france24.com/fr/rss",
+    "category": "Nachrichten",
+    "country": "France"
+  },
+  {
+    "name": "BFMTV",
+    "url": "https://www.bfmtv.com/rss/news-24-7/",
+    "category": "Nachrichten",
+    "country": "France"
+  },
+  {
+    "name": "L’Équipe – Sport",
+    "url": "https://www.lequipe.fr/rss/actu_rss.xml",
+    "category": "Sport",
+    "country": "France"
+  },
+  {
+    "name": "Les Échos – Économie",
+    "url": "https://www.lesechos.fr/rss/rss_une.xml",
+    "category": "Wirtschaft",
+    "country": "France"
+  }
+]
