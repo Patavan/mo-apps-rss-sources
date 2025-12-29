@@ -10,5 +10,23 @@
     "url": "https://www.spiegel.de/schlagzeilen/index.rss",
     "category": "Nachrichten",
     "country": "Deutschland"
+  },
+  {
+    "name": "ZEIT Online",
+    "url": "https://newsfeed.zeit.de/index",
+    "category": "Nachrichten",
+    "country": "Deutschland"
+  },
+  {
+    "name": "Heise Online",
+    "url": "https://www.heise.de/rss/heise-atom.xml",
+    "category": "Technik",
+    "country": "Deutschland"
+  },
+  {
+    "name": "Golem",
+    "url": "https://rss.golem.de/rss.php?feed=RSS2.0",
+    "category": "Technik",
+    "country": "Deutschland"
   }
 ]
